@@ -1,0 +1,18 @@
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\bin\Debug\net7.0-windows\speedtest.exe
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\bin\Debug\net7.0-windows\Speed Test 3.exe
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\bin\Debug\net7.0-windows\Speed Test 3.deps.json
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\bin\Debug\net7.0-windows\Speed Test 3.runtimeconfig.json
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\bin\Debug\net7.0-windows\Speed Test 3.dll
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\bin\Debug\net7.0-windows\Speed Test 3.pdb
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\obj\Debug\net7.0-windows\Speed Test 3.csproj.AssemblyReference.cache
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\obj\Debug\net7.0-windows\Speed_Test_3.Form1.resources
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\obj\Debug\net7.0-windows\Speed Test 3.csproj.GenerateResource.cache
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\obj\Debug\net7.0-windows\Speed Test 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\obj\Debug\net7.0-windows\Speed Test 3.AssemblyInfoInputs.cache
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\obj\Debug\net7.0-windows\Speed Test 3.AssemblyInfo.cs
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\obj\Debug\net7.0-windows\Speed Test 3.csproj.CoreCompileInputs.cache
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\obj\Debug\net7.0-windows\Speed Test 3.dll
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\obj\Debug\net7.0-windows\refint\Speed Test 3.dll
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\obj\Debug\net7.0-windows\Speed Test 3.pdb
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\obj\Debug\net7.0-windows\Speed Test 3.genruntimeconfig.cache
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\Speed Test 3\Speed Test 3\obj\Debug\net7.0-windows\ref\Speed Test 3.dll
