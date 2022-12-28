@@ -1,0 +1,9 @@
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\speed test2\speed test2\obj\Debug\speed test2.csproj.AssemblyReference.cache
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\speed test2\speed test2\obj\Debug\speed test2.csproj.SuggestedBindingRedirects.cache
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\speed test2\speed test2\obj\Debug\speed test2.csproj.CoreCompileInputs.cache
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\speed test2\speed test2\bin\Debug\speedtest.exe
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\speed test2\speed test2\bin\Debug\speed test2.exe.config
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\speed test2\speed test2\bin\Debug\speed test2.exe
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\speed test2\speed test2\bin\Debug\speed test2.pdb
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\speed test2\speed test2\obj\Debug\speed test2.exe
+C:\Users\mhudha\Documents\Kuliah\Semester 5\PPPL\progres\speed test2\speed test2\obj\Debug\speed test2.pdb
